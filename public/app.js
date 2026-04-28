@@ -1,4 +1,4 @@
-const POLICY = {
+ const POLICY = {
   TSM: { ta: 7500, da: 200, other: 0, incentive: 1500, manualTA: false },
   ZSM: { ta: 8500, da: 220, other: 1200, incentive: 0, manualTA: false },
   ADSM: { ta: 0, da: 250, other: 1800, incentive: 0, manualTA: true },
