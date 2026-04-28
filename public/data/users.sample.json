@@ -1,0 +1,2893 @@
+[
+  {
+    "employee_id": "1156",
+    "employee_name": "Md. Nur Islam",
+    "role": "TSO",
+    "assigned_area": "Md. Nur Islam",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1146",
+    "employee_name": "Md. Ashiqur Rahaman",
+    "role": "TSO",
+    "assigned_area": "Md. Ashiqur Rahaman",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1155",
+    "employee_name": "Jibesh Chandra Biswas",
+    "role": "TSO",
+    "assigned_area": "Jibesh Chandra Biswas",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1143",
+    "employee_name": "Shakhawat Hossain",
+    "role": "TSO",
+    "assigned_area": "Shakhawat Hossain",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1147",
+    "employee_name": "Mushfik",
+    "role": "TSO",
+    "assigned_area": "Mushfik",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1139",
+    "employee_name": "Md. Imam Hossen",
+    "role": "TSO",
+    "assigned_area": "Md. Imam Hossen",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1159",
+    "employee_name": "Sahin Fakir",
+    "role": "TSO",
+    "assigned_area": "Sahin Fakir",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1144",
+    "employee_name": "Sumon Hossen",
+    "role": "TSO",
+    "assigned_area": "Sumon Hossen",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1151",
+    "employee_name": "Mohammad Mohsin",
+    "role": "TSO",
+    "assigned_area": "Mohammad Mohsin",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1160",
+    "employee_name": "Md. Abdullah Al Roman",
+    "role": "TSO",
+    "assigned_area": "Md. Abdullah Al Roman",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1140",
+    "employee_name": "M A Hannan",
+    "role": "TSO",
+    "assigned_area": "M A Hannan",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1162",
+    "employee_name": "Md. Abdul Aziz",
+    "role": "TSO",
+    "assigned_area": "Md. Abdul Aziz",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1161",
+    "employee_name": "Habibur Rahman",
+    "role": "TSO",
+    "assigned_area": "Habibur Rahman",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1163",
+    "employee_name": "Ashraf Hossen",
+    "role": "TSO",
+    "assigned_area": "Ashraf Hossen",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1134",
+    "employee_name": "Md. Oliullah",
+    "role": "TSO",
+    "assigned_area": "Md. Oliullah",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1158",
+    "employee_name": "Md. Tohin Ali",
+    "role": "TSO",
+    "assigned_area": "Md. Tohin Ali",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1137",
+    "employee_name": "Mubaraque Hossin",
+    "role": "TSO",
+    "assigned_area": "Mubaraque Hossin",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1157",
+    "employee_name": "Md. Rabi",
+    "role": "TSO",
+    "assigned_area": "Md. Rabi",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1111",
+    "employee_name": "Md. Anik Hosen",
+    "role": "TSO",
+    "assigned_area": "Md. Anik Hosen",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1153",
+    "employee_name": "Sojit Biswas",
+    "role": "TSO",
+    "assigned_area": "Sojit Biswas",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1145",
+    "employee_name": "Prasenzit Malakar",
+    "role": "TSO",
+    "assigned_area": "Prasenzit Malakar",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1150",
+    "employee_name": "Al-Amin",
+    "role": "TSO",
+    "assigned_area": "Al-Amin",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1120",
+    "employee_name": "Md. Akash Ahmed",
+    "role": "TSO",
+    "assigned_area": "Md. Akash Ahmed",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1141",
+    "employee_name": "Sree Dip Kumer Biswas",
+    "role": "TSO",
+    "assigned_area": "Sree Dip Kumer Biswas",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1133",
+    "employee_name": "Md. Raitul Islam",
+    "role": "TSO",
+    "assigned_area": "Md. Raitul Islam",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1138",
+    "employee_name": "Md. Shamim Prodhan",
+    "role": "TSO",
+    "assigned_area": "Md. Shamim Prodhan",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1142",
+    "employee_name": "S M Al-Helal",
+    "role": "TSO",
+    "assigned_area": "S M Al-Helal",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1135",
+    "employee_name": "Md. Sumon Hossain",
+    "role": "ZSM",
+    "assigned_area": "Md. Sumon Hossain",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1129",
+    "employee_name": "Sohag hossen",
+    "role": "TSO",
+    "assigned_area": "Sohag hossen",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1113",
+    "employee_name": "Tarek Ahmad",
+    "role": "TSO",
+    "assigned_area": "Tarek Ahmad",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1124",
+    "employee_name": "Ariful Islam",
+    "role": "TSO",
+    "assigned_area": "Ariful Islam",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1119",
+    "employee_name": "Md. Israil Hossan Nadim",
+    "role": "TSO",
+    "assigned_area": "Md. Israil Hossan Nadim",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1127",
+    "employee_name": "Sakib Khan",
+    "role": "TSO",
+    "assigned_area": "Sakib Khan",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1132",
+    "employee_name": "Md. Sumon Bappy",
+    "role": "TSO",
+    "assigned_area": "Md. Sumon Bappy",
+    "status": "Inactive"
+  },
+  {
+    "employee_id": "1075",
+    "employee_name": "Bijoy Sarker",
+    "role": "TSO",
+    "assigned_area": "Bijoy Sarker",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1121",
+    "employee_name": "Md. Najmul Hossain",
+    "role": "TSO",
+    "assigned_area": "Md. Najmul Hossain",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1126",
+    "employee_name": "Razaul Korim",
+    "role": "TSO",
+    "assigned_area": "Razaul Korim",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1122",
+    "employee_name": "Md. Zahidul Islam Zahid",
+    "role": "TSO",
+    "assigned_area": "Md. Zahidul Islam Zahid",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1118",
+    "employee_name": "Md. Forhad Mondol",
+    "role": "TSO",
+    "assigned_area": "Md. Forhad Mondol",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1125",
+    "employee_name": "Anup Somadder",
+    "role": "TSO",
+    "assigned_area": "Anup Somadder",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1117",
+    "employee_name": "Md. Sajidul Islam",
+    "role": "TSO",
+    "assigned_area": "Md. Sajidul Islam",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1128",
+    "employee_name": "Md. Abdul Hakim Sujon",
+    "role": "TSO",
+    "assigned_area": "Md. Abdul Hakim Sujon",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1115",
+    "employee_name": "Md. Juel Rana",
+    "role": "TSO",
+    "assigned_area": "Md. Juel Rana",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1131",
+    "employee_name": "Mohammad Arifur Rahman",
+    "role": "TSO",
+    "assigned_area": "Mohammad Arifur Rahman",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1130",
+    "employee_name": "Mohammad Mehedi Hasan",
+    "role": "TSO",
+    "assigned_area": "Mohammad Mehedi Hasan",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1096",
+    "employee_name": "Radhakanta Biswas",
+    "role": "TSO",
+    "assigned_area": "Md. Abdul Aziz",
+    "status": "Inactive"
+  },
+  {
+    "employee_id": "1123",
+    "employee_name": "Md. Ridoy Mia",
+    "role": "TSO",
+    "assigned_area": "Md. Ridoy Mia",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1065",
+    "employee_name": "Md. Abdullah",
+    "role": "TSO",
+    "assigned_area": "MD Abdullah",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1110",
+    "employee_name": "Md. Habibur Rahman",
+    "role": "TSO",
+    "assigned_area": "Md. Habibur Rahman",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1097",
+    "employee_name": "Md. Al-Amin",
+    "role": "TSO",
+    "assigned_area": "Md. Al-Amin- 02",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1116",
+    "employee_name": "Ram Proshad Mondal",
+    "role": "TSO",
+    "assigned_area": "Ram Proshad Mondal",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1114",
+    "employee_name": "Rakibul Islam",
+    "role": "TSO",
+    "assigned_area": "Rakibul Islam",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1112",
+    "employee_name": "Md. Musa Molla",
+    "role": "TSO",
+    "assigned_area": "Md. Musa Molla",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1109",
+    "employee_name": "Md. Sumon Kadir",
+    "role": "TSO",
+    "assigned_area": "Md. Sumon Kadir",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1108",
+    "employee_name": "Shajjat Hossen",
+    "role": "TSO",
+    "assigned_area": "Shajjat Hossen",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1060",
+    "employee_name": "Md. Biplob Hossain",
+    "role": "TSO",
+    "assigned_area": "Md. Biplob Hossain",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1042",
+    "employee_name": "Md: Johurul Islam",
+    "role": "TSO",
+    "assigned_area": "Md: Johurul Islam",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1040",
+    "employee_name": "Md: Nabadwip Biswas Raja",
+    "role": "TSO",
+    "assigned_area": "Vacant",
+    "status": "Inactive"
+  },
+  {
+    "employee_id": "1046",
+    "employee_name": "Md. Moznu Mia",
+    "role": "TSO",
+    "assigned_area": "Md. Moznu Mia",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1021",
+    "employee_name": "Md. Ahsan Habib",
+    "role": "TSO",
+    "assigned_area": "Md. Ahsan Habib",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1029",
+    "employee_name": "Md. Ismail Hossain",
+    "role": "TSO",
+    "assigned_area": "Md. Ismail Hossain",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1106",
+    "employee_name": "Md. Jahangir Alom",
+    "role": "TSO",
+    "assigned_area": "Md. Jahangir Alom",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1083",
+    "employee_name": "Md. Liton Mia",
+    "role": "TSO",
+    "assigned_area": "Md. Liton Mia",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1102",
+    "employee_name": "Md. Sojib Hossain",
+    "role": "TSO",
+    "assigned_area": "Md. Sojib Hossain",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1063",
+    "employee_name": "Md. Naim Hossen",
+    "role": "TSO",
+    "assigned_area": "Md. Naim Hossen",
+    "status": "Inactive"
+  },
+  {
+    "employee_id": "1085",
+    "employee_name": "Md. Golam Rabbany",
+    "role": "TSO",
+    "assigned_area": "Md. Golam Rabbany",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1087",
+    "employee_name": "Avijit Ghosh",
+    "role": "TSO",
+    "assigned_area": "Avijit Ghosh",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1002",
+    "employee_name": "Biplob Hossen",
+    "role": "TSO",
+    "assigned_area": "Biplob Hossen",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1092",
+    "employee_name": "Arman Hossain",
+    "role": "TSO",
+    "assigned_area": "Dump",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1082",
+    "employee_name": "Md. Sahariya Hossain",
+    "role": "TSO",
+    "assigned_area": "Dump",
+    "status": "Inactive"
+  },
+  {
+    "employee_id": "405",
+    "employee_name": "Md. Habibur Rahman",
+    "role": "TSM",
+    "assigned_area": "Md. Habibur Rahman | 405",
+    "status": "Active"
+  },
+  {
+    "employee_id": "187",
+    "employee_name": "Md Tanvir Hasan",
+    "role": "TSM",
+    "assigned_area": "Md Tanvir Hasan",
+    "status": "Active"
+  },
+  {
+    "employee_id": "130",
+    "employee_name": "Md. Nasir Uddin Begh",
+    "role": "TSM",
+    "assigned_area": "Md. Nasir Uddin Begh",
+    "status": "Active"
+  },
+  {
+    "employee_id": "660",
+    "employee_name": "Md. Abdul Hakim",
+    "role": "TSM",
+    "assigned_area": "Md. Abdul Hakim",
+    "status": "Active"
+  },
+  {
+    "employee_id": "402",
+    "employee_name": "Md. Mokhlesur Rahman",
+    "role": "TSM",
+    "assigned_area": "Md. Mokhlesur Rahman",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1044",
+    "employee_name": "Md. Ala Uddin",
+    "role": "TSM",
+    "assigned_area": "Md. Ala Uddin",
+    "status": "Active"
+  },
+  {
+    "employee_id": "172",
+    "employee_name": "Nimar Ali",
+    "role": "TSM",
+    "assigned_area": "Nimar Ali",
+    "status": "Active"
+  },
+  {
+    "employee_id": "361",
+    "employee_name": "Md. Mohasin Talukder",
+    "role": "TSM",
+    "assigned_area": "Md. Mohasin Talukder",
+    "status": "Active"
+  },
+  {
+    "employee_id": "163",
+    "employee_name": "Md. Robiul Islam",
+    "role": "TSM",
+    "assigned_area": "Md. Robiul Islam",
+    "status": "Active"
+  },
+  {
+    "employee_id": "849",
+    "employee_name": "Faysal Ahmed Nobel",
+    "role": "TSM",
+    "assigned_area": "Faysal Ahmed Nobel",
+    "status": "Active"
+  },
+  {
+    "employee_id": "158",
+    "employee_name": "Hamidul Islam",
+    "role": "TSM",
+    "assigned_area": "Hamidul Islam",
+    "status": "Active"
+  },
+  {
+    "employee_id": "689",
+    "employee_name": "Saifur Rahman Abir",
+    "role": "TSM",
+    "assigned_area": "Md. Sumon Hossain",
+    "status": "Inactive"
+  },
+  {
+    "employee_id": "939",
+    "employee_name": "Shukanto Acharzza",
+    "role": "TSM",
+    "assigned_area": "Shukanto Acharzza",
+    "status": "Active"
+  },
+  {
+    "employee_id": "159",
+    "employee_name": "Md. Salahuddin",
+    "role": "ZSM",
+    "assigned_area": "Md. Salahuddin",
+    "status": "Active"
+  },
+  {
+    "employee_id": "273",
+    "employee_name": "Md Golam Hossain",
+    "role": "ZSM",
+    "assigned_area": "Md Gulam Hossain",
+    "status": "Active"
+  },
+  {
+    "employee_id": "020",
+    "employee_name": "Anupom Kanti Das",
+    "role": "ZSM",
+    "assigned_area": "Anupom Kanti Das",
+    "status": "Active"
+  },
+  {
+    "employee_id": "136",
+    "employee_name": "Abdur Rahim",
+    "role": "ZSM",
+    "assigned_area": "Abdur Rahim",
+    "status": "Active"
+  },
+  {
+    "employee_id": "825",
+    "employee_name": "Md. Saidur Rahman",
+    "role": "DSM",
+    "assigned_area": "Md. Saidur Rahman Borisal Div",
+    "status": "Active"
+  },
+  {
+    "employee_id": "065",
+    "employee_name": "Md Shah Jamal Miya",
+    "role": "ADSM",
+    "assigned_area": "ADSM Md. Shah Jamal Miya (Chattogram DIV)",
+    "status": "Active"
+  },
+  {
+    "employee_id": "282",
+    "employee_name": "Borhan Uddin",
+    "role": "ADSM",
+    "assigned_area": "Borhan Uddin Cumilla Division",
+    "status": "Active"
+  },
+  {
+    "employee_id": "138",
+    "employee_name": "Abdullah Al Mamun",
+    "role": "DSM",
+    "assigned_area": "DSM Abdullah Al Mamun (Mymensingh)",
+    "status": "Active"
+  },
+  {
+    "employee_id": "21",
+    "employee_name": "Md. Ariful Hoque",
+    "role": "ZSM",
+    "assigned_area": "Md. Ariful Hoque",
+    "status": "Active"
+  },
+  {
+    "employee_id": "530",
+    "employee_name": "DSM Sazedur Rahman",
+    "role": "Supervisors",
+    "assigned_area": "DSM Sazedur Rahman",
+    "status": "Active"
+  },
+  {
+    "employee_id": "419",
+    "employee_name": "Md. Mahobub Hasan",
+    "role": "ZSM",
+    "assigned_area": "ZSM Md. Mahobub Hasan",
+    "status": "Active"
+  },
+  {
+    "employee_id": "099",
+    "employee_name": "Rana Mia",
+    "role": "TSM",
+    "assigned_area": "Md. Rana Mia",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1052",
+    "employee_name": "Md. Nazmul Islam",
+    "role": "TSO",
+    "assigned_area": "Md. Nazmul Islam",
+    "status": "Inactive"
+  },
+  {
+    "employee_id": "1089",
+    "employee_name": "Md. Yeasin Ali",
+    "role": "TSO",
+    "assigned_area": "Md. Yeasin Ali",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1098",
+    "employee_name": "Md. Abul Kalam",
+    "role": "TSO",
+    "assigned_area": "Md. Abul Kalam",
+    "status": "Inactive"
+  },
+  {
+    "employee_id": "1091",
+    "employee_name": "Md. Hossain Khan Hossan",
+    "role": "TSO",
+    "assigned_area": "Md. Hossain Khan Hossan",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1043",
+    "employee_name": "Md. Kawsar Ahmmad",
+    "role": "TSO",
+    "assigned_area": "Md. Kawsar Ahmmad",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1045",
+    "employee_name": "Md. Mamunur Rashid",
+    "role": "TSO",
+    "assigned_area": "Md. Mamunur Rashid",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1051",
+    "employee_name": "Md. Showon Mia",
+    "role": "TSO",
+    "assigned_area": "Md. Showon Mia",
+    "status": "Inactive"
+  },
+  {
+    "employee_id": "1028",
+    "employee_name": "Monadil Safil Paros",
+    "role": "TSO",
+    "assigned_area": "Monadil Safil Paros",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1033",
+    "employee_name": "Md. Nazmul Haque",
+    "role": "TSO",
+    "assigned_area": "Md. Nazmul Haque",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1049",
+    "employee_name": "Md. Milon",
+    "role": "TSO",
+    "assigned_area": "Md. Milon",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1095",
+    "employee_name": "Md. Sadman Hafij Shahan",
+    "role": "TSO",
+    "assigned_area": "Vacant",
+    "status": "Inactive"
+  },
+  {
+    "employee_id": "1070",
+    "employee_name": "Rayhanul Ferdous",
+    "role": "TSO",
+    "assigned_area": "Sahin Fakir",
+    "status": "Inactive"
+  },
+  {
+    "employee_id": "1022",
+    "employee_name": "Md Al Amin",
+    "role": "TSO",
+    "assigned_area": "Md Al Amin",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1079",
+    "employee_name": "Mujahidul Islam Tahim",
+    "role": "TSO",
+    "assigned_area": "Mujahidul Islam Tahim",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1056",
+    "employee_name": "Gias Uddin",
+    "role": "TSO",
+    "assigned_area": "Gias Uddin",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1099",
+    "employee_name": "Md. Shahajahan Sarder",
+    "role": "TSO",
+    "assigned_area": "Md. Abdullah Al Roman",
+    "status": "Inactive"
+  },
+  {
+    "employee_id": "1105",
+    "employee_name": "Liton Kanti Deb",
+    "role": "TSO",
+    "assigned_area": "Liton Kanti Deb",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1055",
+    "employee_name": "Md. Ismail",
+    "role": "TSO",
+    "assigned_area": "Md. Ismail",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1057",
+    "employee_name": "Raghunath Sengupta",
+    "role": "TSO",
+    "assigned_area": "Raghunath Sengupta",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1030",
+    "employee_name": "Sajal Sarkar",
+    "role": "TSO",
+    "assigned_area": "Sajal Sarkar",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1077",
+    "employee_name": "Titu Das",
+    "role": "TSO",
+    "assigned_area": "Titu Das",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1076",
+    "employee_name": "Robel Hossain",
+    "role": "TSO",
+    "assigned_area": "Robel Hossain",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1103",
+    "employee_name": "Mohammad Ebrahim",
+    "role": "TSO",
+    "assigned_area": "Mohammad Ebrahim",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1104",
+    "employee_name": "Arafat Hossein",
+    "role": "TSO",
+    "assigned_area": "Ashraf Hossen",
+    "status": "Inactive"
+  },
+  {
+    "employee_id": "1032",
+    "employee_name": "Towhidul Islam",
+    "role": "TSO",
+    "assigned_area": "Towhidul Islam",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1086",
+    "employee_name": "Shahinur Islam Rafi",
+    "role": "TSO",
+    "assigned_area": "Shahinur Islam Rafi",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1058",
+    "employee_name": "Nazrul Islam",
+    "role": "TSO",
+    "assigned_area": "Nazrul Islam",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1039",
+    "employee_name": "Md. Muzammel Haque",
+    "role": "TSO",
+    "assigned_area": "Md. Muzammel Haque",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1093",
+    "employee_name": "Md. Abdullah Al",
+    "role": "TSO",
+    "assigned_area": "Md. Abdullah Al",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1061",
+    "employee_name": "Tarek Miah",
+    "role": "TSO",
+    "assigned_area": "Md. Hayder Mia",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1094",
+    "employee_name": "Sohan",
+    "role": "TSO",
+    "assigned_area": "Sohan",
+    "status": "Active"
+  },
+  {
+    "employee_id": "127",
+    "employee_name": "Raju Islam",
+    "role": "Supervisors,ASM",
+    "assigned_area": "Raju Islam (Cumilla )",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1034",
+    "employee_name": "Mominul islam",
+    "role": "TSO",
+    "assigned_area": "Mominul Islam",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1078",
+    "employee_name": "MD Tahmid Rahman",
+    "role": "TSM",
+    "assigned_area": "MD Tahmid Rahman",
+    "status": "Active"
+  },
+  {
+    "employee_id": "328",
+    "employee_name": "Md. Motiur Rahman",
+    "role": "TSM",
+    "assigned_area": "Md. Motiur Rahman",
+    "status": "Active"
+  },
+  {
+    "employee_id": "791",
+    "employee_name": "Md Sharif Hossain",
+    "role": "TSM",
+    "assigned_area": "Md Sharif Hossain",
+    "status": "Active"
+  },
+  {
+    "employee_id": "885",
+    "employee_name": "Md. Najim Uddin",
+    "role": "TSO",
+    "assigned_area": "Md. Najim Uddin",
+    "status": "Active"
+  },
+  {
+    "employee_id": "957",
+    "employee_name": "Bellal",
+    "role": "TSO",
+    "assigned_area": "Bellal",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1020",
+    "employee_name": "Kurban Ali",
+    "role": "",
+    "assigned_area": "Vacant",
+    "status": "Inactive"
+  },
+  {
+    "employee_id": "1015",
+    "employee_name": "Shahidul Islam",
+    "role": "TSO",
+    "assigned_area": "Shahidul Islam",
+    "status": "Active"
+  },
+  {
+    "employee_id": "980",
+    "employee_name": "Iddris Ali",
+    "role": "TSO",
+    "assigned_area": "Iddris Ali",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1050",
+    "employee_name": "Ratul Islam",
+    "role": "TSO",
+    "assigned_area": "MD. Ratul Islam",
+    "status": "Active"
+  },
+  {
+    "employee_id": "953",
+    "employee_name": "Md. Al-Noman",
+    "role": "TSO",
+    "assigned_area": "Al Noman",
+    "status": "Active"
+  },
+  {
+    "employee_id": "840",
+    "employee_name": "ZSM MD Mahabubul Alam",
+    "role": "ZSM",
+    "assigned_area": "ZSM MD Mahabubul Alam",
+    "status": "Active"
+  },
+  {
+    "employee_id": "272",
+    "employee_name": "TSM Akram Hossain",
+    "role": "TSM",
+    "assigned_area": "TSM Akram Hossain (Madaripur)",
+    "status": "Active"
+  },
+  {
+    "employee_id": "876",
+    "employee_name": "Md. Shahinur Rahman",
+    "role": "TSO",
+    "assigned_area": "Md. Shahinur Rahman",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1037",
+    "employee_name": "Abbas Howladar",
+    "role": "TSO",
+    "assigned_area": "Abbas Howladar",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1069",
+    "employee_name": "Muin Husen",
+    "role": "TSO",
+    "assigned_area": "Muin Husen",
+    "status": "Active"
+  },
+  {
+    "employee_id": "333",
+    "employee_name": "Boni Amin",
+    "role": "TSO",
+    "assigned_area": "Boni Amin",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1064",
+    "employee_name": "Ramjan Molla",
+    "role": "",
+    "assigned_area": "Jibesh Chandra Biswas",
+    "status": "Inactive"
+  },
+  {
+    "employee_id": "850",
+    "employee_name": "Mamun Hossain",
+    "role": "TSO",
+    "assigned_area": "Shakhawat Hossain",
+    "status": "Inactive"
+  },
+  {
+    "employee_id": "069",
+    "employee_name": "ASM Tariqul Islam",
+    "role": "ZSM",
+    "assigned_area": "ASM Tariqul Islam Rajshahi",
+    "status": "Active"
+  },
+  {
+    "employee_id": "189",
+    "employee_name": "ZSM Mehedi",
+    "role": "ZSM",
+    "assigned_area": "ZSM Mehedi",
+    "status": "Active"
+  },
+  {
+    "employee_id": "408",
+    "employee_name": "ZSM Shamim",
+    "role": "TSM",
+    "assigned_area": "ZSM Shamim",
+    "status": "Active"
+  },
+  {
+    "employee_id": "109",
+    "employee_name": "ZSM Sadekul",
+    "role": "TSM",
+    "assigned_area": "ZSM Sadekul",
+    "status": "Active"
+  },
+  {
+    "employee_id": "55",
+    "employee_name": "TSM Touhid",
+    "role": "TSM",
+    "assigned_area": "TSM Touhid",
+    "status": "Active"
+  },
+  {
+    "employee_id": "173",
+    "employee_name": "Khawaza Mahmudul Hasan",
+    "role": "National Sales Director",
+    "assigned_area": "National",
+    "status": "Active"
+  },
+  {
+    "employee_id": "238",
+    "employee_name": "Md. Musfiq Hasan",
+    "role": "TSM",
+    "assigned_area": "Md. Mushfiq Hasan",
+    "status": "Active"
+  },
+  {
+    "employee_id": "868",
+    "employee_name": "Md. Anwar Hossain",
+    "role": "TSM",
+    "assigned_area": "Md. Anwar Hossain",
+    "status": "Active"
+  },
+  {
+    "employee_id": "836",
+    "employee_name": "Md. Azad Islam",
+    "role": "TSM",
+    "assigned_area": "Md. Azad Islam",
+    "status": "Active"
+  },
+  {
+    "employee_id": "203",
+    "employee_name": "ZSM Md. Reajul Kabir",
+    "role": "TSM",
+    "assigned_area": "ZSM Md. Reajul Kabir",
+    "status": "Active"
+  },
+  {
+    "employee_id": "139",
+    "employee_name": "Md. Rayhan Hossain",
+    "role": "TSM",
+    "assigned_area": "Md. Rayhan Hossain",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1071",
+    "employee_name": "Md. Habibur Rahman",
+    "role": "TSO",
+    "assigned_area": "Md. Habibur Rahman | 1071",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1080",
+    "employee_name": "Md. Kawsar Ahamed",
+    "role": "TSO",
+    "assigned_area": "Md. Kawsar Ahamed",
+    "status": "Active"
+  },
+  {
+    "employee_id": "994",
+    "employee_name": "Rukunujjaman",
+    "role": "TSM",
+    "assigned_area": "Rukunujjaman",
+    "status": "Active"
+  },
+  {
+    "employee_id": "222",
+    "employee_name": "Md. Rokibujjaman",
+    "role": "TSM",
+    "assigned_area": "Md. Rokibujjaman",
+    "status": "Active"
+  },
+  {
+    "employee_id": "442",
+    "employee_name": "Md. Abbas Ali Mithun",
+    "role": "TSM",
+    "assigned_area": "Md. Abbas Ali Mithun",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1018",
+    "employee_name": "Md. Jakir Hossain",
+    "role": "TSO",
+    "assigned_area": "Md. Jakir Hossain",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1019",
+    "employee_name": "Md. Saddam Hossain",
+    "role": "TSM",
+    "assigned_area": "TSM Md. Saddam Hossain",
+    "status": "Active"
+  },
+  {
+    "employee_id": "10050",
+    "employee_name": "Md. Nazim",
+    "role": "TSO",
+    "assigned_area": "Md. Nur Islam",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1041",
+    "employee_name": "Md. Arif Mohamud",
+    "role": "TSO",
+    "assigned_area": "Md. Arif Mohamud",
+    "status": "Active"
+  },
+  {
+    "employee_id": "793",
+    "employee_name": "Md. Abu Ahad",
+    "role": "Supervisors",
+    "assigned_area": "ASM Md. Abu Ahad",
+    "status": "Active"
+  },
+  {
+    "employee_id": "4",
+    "employee_name": "Md. Ariful Islam",
+    "role": "TSM",
+    "assigned_area": "ZSM Ariful Islam",
+    "status": "Active"
+  },
+  {
+    "employee_id": "951",
+    "employee_name": "Md. Ruhul Amin Rubel",
+    "role": "TSM",
+    "assigned_area": "MD Tahmid Rahman",
+    "status": "Inactive"
+  },
+  {
+    "employee_id": "153",
+    "employee_name": "Abdullah Al-Mamun",
+    "role": "Supervisors",
+    "assigned_area": "DSM Dhaka South",
+    "status": "Inactive"
+  },
+  {
+    "employee_id": "144",
+    "employee_name": "Md. Soton Rahman",
+    "role": "TSM",
+    "assigned_area": "Md. Soton Rahman",
+    "status": "Active"
+  },
+  {
+    "employee_id": "780",
+    "employee_name": "Md. Hasan Reja",
+    "role": "TSM",
+    "assigned_area": "Md. Hasan Reja",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP-Code-580",
+    "employee_name": "Md Jasim Uddin",
+    "role": "National Sales Director",
+    "assigned_area": "National",
+    "status": "Active"
+  },
+  {
+    "employee_id": "976",
+    "employee_name": "Sabbir Hossain",
+    "role": "National Sales Director",
+    "assigned_area": "National",
+    "status": "Active"
+  },
+  {
+    "employee_id": "131",
+    "employee_name": "Md. Shamim Khan",
+    "role": "National Sales Director",
+    "assigned_area": "National",
+    "status": "Active"
+  },
+  {
+    "employee_id": "111",
+    "employee_name": "Rifat Uddin Ahmad",
+    "role": "National Sales Director",
+    "assigned_area": "National",
+    "status": "Active"
+  },
+  {
+    "employee_id": "114",
+    "employee_name": "Mohammad Minhaj Mehedy",
+    "role": "National Sales Director",
+    "assigned_area": "National",
+    "status": "Active"
+  },
+  {
+    "employee_id": "001",
+    "employee_name": "MD. SAROWAR- E- KAYNITH",
+    "role": "National Sales Director",
+    "assigned_area": "National",
+    "status": "Active"
+  },
+  {
+    "employee_id": "885D",
+    "employee_name": "Md. Najim Uddin",
+    "role": "",
+    "assigned_area": "Md. Najim Uddin",
+    "status": "Inactive"
+  },
+  {
+    "employee_id": "957D",
+    "employee_name": "Bellal",
+    "role": "",
+    "assigned_area": "Bellal D",
+    "status": "Inactive"
+  },
+  {
+    "employee_id": "953D",
+    "employee_name": "Md. Al-Noman",
+    "role": "TSO",
+    "assigned_area": "Al Noman",
+    "status": "Inactive"
+  },
+  {
+    "employee_id": "080",
+    "employee_name": "Iddiris Ali",
+    "role": "TSM",
+    "assigned_area": "Md. Iddris Ali",
+    "status": "Active"
+  },
+  {
+    "employee_id": "811",
+    "employee_name": "Dipto Sikder",
+    "role": "TSO",
+    "assigned_area": "Dipto Sikder",
+    "status": "Inactive"
+  },
+  {
+    "employee_id": "501",
+    "employee_name": "Md. Shiful Islam",
+    "role": "TSO",
+    "assigned_area": "Md. Shiful Islam",
+    "status": "Active"
+  },
+  {
+    "employee_id": "786",
+    "employee_name": "Md. Rayhan",
+    "role": "TSO",
+    "assigned_area": "Md. Rayhan",
+    "status": "Active"
+  },
+  {
+    "employee_id": "750",
+    "employee_name": "Md. Monir Hossain",
+    "role": "TSO",
+    "assigned_area": "Md. Monir Hossain",
+    "status": "Active"
+  },
+  {
+    "employee_id": "311",
+    "employee_name": "Kazi Asabur Rahman",
+    "role": "TSO",
+    "assigned_area": "Kazi Asabur Rahman",
+    "status": "Active"
+  },
+  {
+    "employee_id": "943",
+    "employee_name": "Md. Saifullah Sakil",
+    "role": "TSO",
+    "assigned_area": "Ram Proshad Mondal",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1004",
+    "employee_name": "Md. Rafiqul Islam",
+    "role": "TSO",
+    "assigned_area": "Md. Rafiqul Islam",
+    "status": "Active"
+  },
+  {
+    "employee_id": "186",
+    "employee_name": "Shagor Biswas",
+    "role": "TSO",
+    "assigned_area": "Shagor Biswas",
+    "status": "Active"
+  },
+  {
+    "employee_id": "517",
+    "employee_name": "Joyanto Mohonto",
+    "role": "TSO",
+    "assigned_area": "Joyanto Mohonto",
+    "status": "Active"
+  },
+  {
+    "employee_id": "874",
+    "employee_name": "Md. Omar Faruk",
+    "role": "TSO",
+    "assigned_area": "Md. Omar Faruk",
+    "status": "Active"
+  },
+  {
+    "employee_id": "812",
+    "employee_name": "Md. Shahiduzzaman",
+    "role": "TSO",
+    "assigned_area": "Md. Shahiduzzaman",
+    "status": "Active"
+  },
+  {
+    "employee_id": "876D",
+    "employee_name": "Md. Shahinur Rahaman",
+    "role": "",
+    "assigned_area": "Md. Shahinur RahamanD",
+    "status": "Inactive"
+  },
+  {
+    "employee_id": "789",
+    "employee_name": "Md. Rubel",
+    "role": "TSO",
+    "assigned_area": "Md. Rubel",
+    "status": "Inactive"
+  },
+  {
+    "employee_id": "850d",
+    "employee_name": "Md. Mamun Hossain",
+    "role": "TSO",
+    "assigned_area": "Md. Mamun HossainD",
+    "status": "Inactive"
+  },
+  {
+    "employee_id": "333D",
+    "employee_name": "Md. Bani Amin",
+    "role": "",
+    "assigned_area": "Md. Bani AminD",
+    "status": "Inactive"
+  },
+  {
+    "employee_id": "960",
+    "employee_name": "Rakibul Islam Hazra",
+    "role": "TSO",
+    "assigned_area": "Rakibul Islam Hazra",
+    "status": "Inactive"
+  },
+  {
+    "employee_id": "598",
+    "employee_name": "Md. Atikur Rahman",
+    "role": "TSO",
+    "assigned_area": "Vacant",
+    "status": "Inactive"
+  },
+  {
+    "employee_id": "978",
+    "employee_name": "Nur Hossin Sikder",
+    "role": "TSO",
+    "assigned_area": "Nur Hossin Sikder",
+    "status": "Active"
+  },
+  {
+    "employee_id": "856",
+    "employee_name": "Anzan Das",
+    "role": "TSO",
+    "assigned_area": "Vacant",
+    "status": "Inactive"
+  },
+  {
+    "employee_id": "971",
+    "employee_name": "Md. Rana Ahamed Khan",
+    "role": "TSO",
+    "assigned_area": "Sumon Hossen",
+    "status": "Inactive"
+  },
+  {
+    "employee_id": "509",
+    "employee_name": "Anup Kummar Halder",
+    "role": "TSO",
+    "assigned_area": "Anup Kummar Halder",
+    "status": "Active"
+  },
+  {
+    "employee_id": "993",
+    "employee_name": "Nipen Das",
+    "role": "TSO",
+    "assigned_area": "Vacant",
+    "status": "Inactive"
+  },
+  {
+    "employee_id": "688",
+    "employee_name": "Md. Al-Amin",
+    "role": "TSO",
+    "assigned_area": "Md. Al-Amin",
+    "status": "Active"
+  },
+  {
+    "employee_id": "890",
+    "employee_name": "Md. Zobayer Rahman",
+    "role": "TSO",
+    "assigned_area": "Vacant",
+    "status": "Inactive"
+  },
+  {
+    "employee_id": "843",
+    "employee_name": "Md. Yusuf",
+    "role": "TSO",
+    "assigned_area": "Md. Yusuf",
+    "status": "Active"
+  },
+  {
+    "employee_id": "841",
+    "employee_name": "Sobotha Chandra Mistri",
+    "role": "TSO",
+    "assigned_area": "Sobotha Chandra Mistri",
+    "status": "Active"
+  },
+  {
+    "employee_id": "959",
+    "employee_name": "Nayim",
+    "role": "TSO",
+    "assigned_area": "Vacant",
+    "status": "Inactive"
+  },
+  {
+    "employee_id": "884",
+    "employee_name": "Sazal Biswas",
+    "role": "TSO",
+    "assigned_area": "Sazal Biswas",
+    "status": "Inactive"
+  },
+  {
+    "employee_id": "964",
+    "employee_name": "Md. Fardin Hossen",
+    "role": "TSO",
+    "assigned_area": "Vacant",
+    "status": "Inactive"
+  },
+  {
+    "employee_id": "1010",
+    "employee_name": "Shusanto Hawlader",
+    "role": "TSO",
+    "assigned_area": "Vacant",
+    "status": "Inactive"
+  },
+  {
+    "employee_id": "855",
+    "employee_name": "Md. Imam Hossen",
+    "role": "TSO",
+    "assigned_area": "Mushfik",
+    "status": "Inactive"
+  },
+  {
+    "employee_id": "920",
+    "employee_name": "Rajib Chowdhury",
+    "role": "TSO",
+    "assigned_area": "Rajib Chowdhury",
+    "status": "Active"
+  },
+  {
+    "employee_id": "785",
+    "employee_name": "Michal Nandi",
+    "role": "TSO",
+    "assigned_area": "Mohammad Mehedi Hasan",
+    "status": "Inactive"
+  },
+  {
+    "employee_id": "866",
+    "employee_name": "Jamshedul Alam",
+    "role": "TSO",
+    "assigned_area": "Jamshedul Alam",
+    "status": "Active"
+  },
+  {
+    "employee_id": "705",
+    "employee_name": "Md. Iqbal Hossain",
+    "role": "TSO",
+    "assigned_area": "Md. Iqbal Hossain",
+    "status": "Active"
+  },
+  {
+    "employee_id": "524",
+    "employee_name": "Md. Jasim Uddin",
+    "role": "TSO",
+    "assigned_area": "Md. Jasim Uddin",
+    "status": "Active"
+  },
+  {
+    "employee_id": "774",
+    "employee_name": "Md. Jabad",
+    "role": "TSO",
+    "assigned_area": "Md. Jabad",
+    "status": "Active"
+  },
+  {
+    "employee_id": "983",
+    "employee_name": "Md. Naim Hossan",
+    "role": "TSO",
+    "assigned_area": "Mohammad Mohsin",
+    "status": "Inactive"
+  },
+  {
+    "employee_id": "772",
+    "employee_name": "Abdul Jalil",
+    "role": "TSO",
+    "assigned_area": "Abdul Jalil",
+    "status": "Active"
+  },
+  {
+    "employee_id": "147",
+    "employee_name": "Md Nur Ali",
+    "role": "TSO",
+    "assigned_area": "Md Nur Ali",
+    "status": "Active"
+  },
+  {
+    "employee_id": "970",
+    "employee_name": "Mohammad Nejam Uddin",
+    "role": "TSO",
+    "assigned_area": "Vacant",
+    "status": "Inactive"
+  },
+  {
+    "employee_id": "753",
+    "employee_name": "Mizanur Rahman",
+    "role": "TSO",
+    "assigned_area": "Mizanur Rahman",
+    "status": "Active"
+  },
+  {
+    "employee_id": "872",
+    "employee_name": "Saiful Islam Mizan",
+    "role": "TSO",
+    "assigned_area": "Saiful Islam Mizan",
+    "status": "Active"
+  },
+  {
+    "employee_id": "902",
+    "employee_name": "Md. Tarek Miah",
+    "role": "TSO",
+    "assigned_area": "Md. Tarek Miah",
+    "status": "Active"
+  },
+  {
+    "employee_id": "219",
+    "employee_name": "Md. Shafiqul Islam",
+    "role": "TSO",
+    "assigned_area": "Md. Shafiqul Islam",
+    "status": "Active"
+  },
+  {
+    "employee_id": "910",
+    "employee_name": "Md. Saidur Rahman",
+    "role": "TSO",
+    "assigned_area": "Vacant",
+    "status": "Inactive"
+  },
+  {
+    "employee_id": "781",
+    "employee_name": "Md. Nuruzzaman Hossain",
+    "role": "TSO",
+    "assigned_area": "Md. Nuruzzaman Hossain",
+    "status": "Active"
+  },
+  {
+    "employee_id": "989",
+    "employee_name": "Md. Najmul Hasan",
+    "role": "TSO",
+    "assigned_area": "Md. Najmul Hasan",
+    "status": "Active"
+  },
+  {
+    "employee_id": "886",
+    "employee_name": "Shariful Islam",
+    "role": "TSO",
+    "assigned_area": "Shariful Islam",
+    "status": "Active"
+  },
+  {
+    "employee_id": "612",
+    "employee_name": "Nazmul Hasan",
+    "role": "TSO",
+    "assigned_area": "Nazmul Hasan",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1007",
+    "employee_name": "Md. Nisrat Rahman Bijoy",
+    "role": "TSO",
+    "assigned_area": "Vacant",
+    "status": "Inactive"
+  },
+  {
+    "employee_id": "833",
+    "employee_name": "Nayan Barman",
+    "role": "TSO",
+    "assigned_area": "Nayan Barman",
+    "status": "Active"
+  },
+  {
+    "employee_id": "767",
+    "employee_name": "Md. Akaeid Bishas",
+    "role": "TSO",
+    "assigned_area": "Vacant",
+    "status": "Inactive"
+  },
+  {
+    "employee_id": "1003",
+    "employee_name": "Md. Saymon Miah",
+    "role": "TSO",
+    "assigned_area": "Md. Saymon Miah",
+    "status": "Active"
+  },
+  {
+    "employee_id": "720",
+    "employee_name": "Md. Ayub Ali",
+    "role": "TSO",
+    "assigned_area": "Vacant",
+    "status": "Inactive"
+  },
+  {
+    "employee_id": "952",
+    "employee_name": "Md. Sohel Miah",
+    "role": "TSO",
+    "assigned_area": "Md. Sohel Miah",
+    "status": "Active"
+  },
+  {
+    "employee_id": "714",
+    "employee_name": "Rukon Uddin",
+    "role": "TSO",
+    "assigned_area": "Rukon Uddin",
+    "status": "Active"
+  },
+  {
+    "employee_id": "546",
+    "employee_name": "Md. Akmol Khan",
+    "role": "TSO",
+    "assigned_area": "Md. Akmol Khan",
+    "status": "Active"
+  },
+  {
+    "employee_id": "448",
+    "employee_name": "Md. Sharif",
+    "role": "TSO",
+    "assigned_area": "Md. Sharif",
+    "status": "Active"
+  },
+  {
+    "employee_id": "913",
+    "employee_name": "Rakesh Kumar Dey",
+    "role": "TSO",
+    "assigned_area": "Rakesh Kumar Dey",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1009",
+    "employee_name": "Mohammad Raihan",
+    "role": "TSO",
+    "assigned_area": "Rakesh Kumar Dey",
+    "status": "Active"
+  },
+  {
+    "employee_id": "635",
+    "employee_name": "Krishna Dhar",
+    "role": "TSO",
+    "assigned_area": "Krishna Dhar",
+    "status": "Active"
+  },
+  {
+    "employee_id": "464",
+    "employee_name": "Alauddin Dulal",
+    "role": "TSO",
+    "assigned_area": "Alauddin Dulal",
+    "status": "Active"
+  },
+  {
+    "employee_id": "933",
+    "employee_name": "Iqbal Hossain",
+    "role": "TSO",
+    "assigned_area": "Iqbal Hossain",
+    "status": "Active"
+  },
+  {
+    "employee_id": "972",
+    "employee_name": "Yasin Arafat Rony",
+    "role": "TSO",
+    "assigned_area": "Yasin Arafat Rony",
+    "status": "Active"
+  },
+  {
+    "employee_id": "455",
+    "employee_name": "Md. Ismail Hossain",
+    "role": "TSO",
+    "assigned_area": "Md. Ismail Hossain",
+    "status": "Active"
+  },
+  {
+    "employee_id": "846",
+    "employee_name": "Md. Shahidur Rahman",
+    "role": "TSO",
+    "assigned_area": "Md. Shahidur Rahman",
+    "status": "Active"
+  },
+  {
+    "employee_id": "652",
+    "employee_name": "Samim Howlader",
+    "role": "TSO",
+    "assigned_area": "Samim Howlader",
+    "status": "Inactive"
+  },
+  {
+    "employee_id": "267",
+    "employee_name": "A. Rahim Howlader",
+    "role": "TSO",
+    "assigned_area": "A. Rahim Howlader",
+    "status": "Active"
+  },
+  {
+    "employee_id": "923",
+    "employee_name": "Pranta Talukder",
+    "role": "TSO",
+    "assigned_area": "Pranta Talukder",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1001",
+    "employee_name": "Md. Shahjalal",
+    "role": "TSO",
+    "assigned_area": "Vacant",
+    "status": "Active"
+  },
+  {
+    "employee_id": "603",
+    "employee_name": "Md. Al Amin",
+    "role": "TSM",
+    "assigned_area": "Md. Al Amin",
+    "status": "Active"
+  },
+  {
+    "employee_id": "979",
+    "employee_name": "Foysal Ahmed",
+    "role": "TSO",
+    "assigned_area": "Foysal Ahmed",
+    "status": "Active"
+  },
+  {
+    "employee_id": "25",
+    "employee_name": "Md. Murshed Talukder",
+    "role": "TSO",
+    "assigned_area": "Md. Murshed Talukder",
+    "status": "Active"
+  },
+  {
+    "employee_id": "805",
+    "employee_name": "Md. Sueb Ahmed",
+    "role": "TSO",
+    "assigned_area": "Md. Sueb Ahmed",
+    "status": "Active"
+  },
+  {
+    "employee_id": "568",
+    "employee_name": "Tanmay Das Chowdury",
+    "role": "TSO",
+    "assigned_area": "Tanmay Das Chowdury",
+    "status": "Active"
+  },
+  {
+    "employee_id": "397",
+    "employee_name": "Md. Rasel Mia",
+    "role": "TSO",
+    "assigned_area": "Md. Rasel Mia",
+    "status": "Active"
+  },
+  {
+    "employee_id": "962",
+    "employee_name": "Md. Rohul Amin",
+    "role": "TSO",
+    "assigned_area": "Md. Oliullah",
+    "status": "Active"
+  },
+  {
+    "employee_id": "369",
+    "employee_name": "Plabon Miah",
+    "role": "TSO",
+    "assigned_area": "Plabon Miah",
+    "status": "Active"
+  },
+  {
+    "employee_id": "117",
+    "employee_name": "Md. Wali Ullah",
+    "role": "TSO",
+    "assigned_area": "Md. Wali Ullah",
+    "status": "Active"
+  },
+  {
+    "employee_id": "958",
+    "employee_name": "Md. Arman Mia",
+    "role": "TSO",
+    "assigned_area": "Md. Arman Mia",
+    "status": "Active"
+  },
+  {
+    "employee_id": "421D",
+    "employee_name": "Md. Sakil Mahmud",
+    "role": "TSO",
+    "assigned_area": "Md. Sakil Mahmud",
+    "status": "Active"
+  },
+  {
+    "employee_id": "934",
+    "employee_name": "Hridoy Hossain",
+    "role": "TSO",
+    "assigned_area": "Vacant",
+    "status": "Inactive"
+  },
+  {
+    "employee_id": "583",
+    "employee_name": "Md. Abdur Rahman",
+    "role": "TSO",
+    "assigned_area": "Md. Abdur Rahman",
+    "status": "Active"
+  },
+  {
+    "employee_id": "719",
+    "employee_name": "Foysal Ahamed",
+    "role": "TSO",
+    "assigned_area": "Foysal Ahamed",
+    "status": "Active"
+  },
+  {
+    "employee_id": "651",
+    "employee_name": "Md. Din Islam",
+    "role": "TSO",
+    "assigned_area": "Md. Din Islam",
+    "status": "Active"
+  },
+  {
+    "employee_id": "277",
+    "employee_name": "Krishna Karmakar",
+    "role": "TSO",
+    "assigned_area": "Krishna Karmakar",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1000",
+    "employee_name": "Md. Riaz Hosen",
+    "role": "TSO",
+    "assigned_area": "Md. Riaz Hosen",
+    "status": "Active"
+  },
+  {
+    "employee_id": "808",
+    "employee_name": "Md. Riaj Uddin",
+    "role": "TSO",
+    "assigned_area": "Md. Riaj Uddin",
+    "status": "Active"
+  },
+  {
+    "employee_id": "906",
+    "employee_name": "Sayed Anowar Hossain",
+    "role": "TSO",
+    "assigned_area": "Vacant",
+    "status": "Inactive"
+  },
+  {
+    "employee_id": "965",
+    "employee_name": "Rofiqul Islam",
+    "role": "TSO",
+    "assigned_area": "Rofiqul Islam",
+    "status": "Active"
+  },
+  {
+    "employee_id": "409",
+    "employee_name": "Arman Hossain",
+    "role": "TSO",
+    "assigned_area": "Arman Hossain",
+    "status": "Active"
+  },
+  {
+    "employee_id": "478",
+    "employee_name": "Rifat Hasan",
+    "role": "TSO",
+    "assigned_area": "Rifat Hasan",
+    "status": "Active"
+  },
+  {
+    "employee_id": "258",
+    "employee_name": "Md. Rasel Hossain",
+    "role": "TSO",
+    "assigned_area": "Md. Rashel Hossain",
+    "status": "Active"
+  },
+  {
+    "employee_id": "155",
+    "employee_name": "Md Mominul Haque",
+    "role": "TSO",
+    "assigned_area": "Md Mominul Haque",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1024",
+    "employee_name": "Md. Nur-A-Alam",
+    "role": "TSO",
+    "assigned_area": "Md. Nur-A-Alam",
+    "status": "Active"
+  },
+  {
+    "employee_id": "745",
+    "employee_name": "Debashees Chandra Das",
+    "role": "TSO",
+    "assigned_area": "Debashees Chandra Das",
+    "status": "Active"
+  },
+  {
+    "employee_id": "787",
+    "employee_name": "Md. Julhas Mia",
+    "role": "TSO",
+    "assigned_area": "Md. Julhas Mia",
+    "status": "Active"
+  },
+  {
+    "employee_id": "977",
+    "employee_name": "Md. Biplob Hossin",
+    "role": "TSO",
+    "assigned_area": "Md. Biplob Hossin",
+    "status": "Active"
+  },
+  {
+    "employee_id": "948",
+    "employee_name": "Shimul Islam Hannan",
+    "role": "TSO",
+    "assigned_area": "Shimul Islam Hannan",
+    "status": "Active"
+  },
+  {
+    "employee_id": "870",
+    "employee_name": "Shakibul Islam",
+    "role": "TSO",
+    "assigned_area": "Md. Lokman Hakim",
+    "status": "Inactive"
+  },
+  {
+    "employee_id": "704",
+    "employee_name": "Jakaria Hossain",
+    "role": "TSO",
+    "assigned_area": "Md. Musa Molla",
+    "status": "Active"
+  },
+  {
+    "employee_id": "288",
+    "employee_name": "Md. Ful Mia",
+    "role": "TSO",
+    "assigned_area": "Md. Ful Mia",
+    "status": "Active"
+  },
+  {
+    "employee_id": "900",
+    "employee_name": "Md. Anuwar Hossain",
+    "role": "TSO",
+    "assigned_area": "Md. Anuwar Hossain",
+    "status": "Active"
+  },
+  {
+    "employee_id": "744",
+    "employee_name": "Alauddin",
+    "role": "TSO",
+    "assigned_area": "Alauddin",
+    "status": "Active"
+  },
+  {
+    "employee_id": "672",
+    "employee_name": "Zahidul Islam",
+    "role": "TSO",
+    "assigned_area": "Zahidul Islam",
+    "status": "Active"
+  },
+  {
+    "employee_id": "835",
+    "employee_name": "Md. Abdul Hakim",
+    "role": "TSO",
+    "assigned_area": "Md. Abdul Hakim",
+    "status": "Active"
+  },
+  {
+    "employee_id": "281",
+    "employee_name": "Md. Jahidur Rahman",
+    "role": "TSO",
+    "assigned_area": "Md. Jahidur Rahman",
+    "status": "Inactive"
+  },
+  {
+    "employee_id": "485",
+    "employee_name": "Mirazul Islam",
+    "role": "TSO",
+    "assigned_area": "Mirazul Islam",
+    "status": "Active"
+  },
+  {
+    "employee_id": "999",
+    "employee_name": "Raju Ahmad",
+    "role": "TSO",
+    "assigned_area": "Sohan",
+    "status": "Inactive"
+  },
+  {
+    "employee_id": "1073",
+    "employee_name": "Fulon Mia",
+    "role": "TSO",
+    "assigned_area": "Fulon",
+    "status": "Active"
+  },
+  {
+    "employee_id": "889",
+    "employee_name": "Safiullah",
+    "role": "TSO",
+    "assigned_area": "Safiullah",
+    "status": "Active"
+  },
+  {
+    "employee_id": "693",
+    "employee_name": "Md. Safikul Islam",
+    "role": "TSO",
+    "assigned_area": "Md. Anik Hosen",
+    "status": "Inactive"
+  },
+  {
+    "employee_id": "706",
+    "employee_name": "Md. Faruk Mia",
+    "role": "TSO",
+    "assigned_area": "Md. Faruk Mia",
+    "status": "Active"
+  },
+  {
+    "employee_id": "733",
+    "employee_name": "Md. Rashedul Islam",
+    "role": "TSO",
+    "assigned_area": "Md. Rashedul Islam",
+    "status": "Active"
+  },
+  {
+    "employee_id": "961",
+    "employee_name": "Junaeid Khan",
+    "role": "",
+    "assigned_area": "Dump",
+    "status": "Inactive"
+  },
+  {
+    "employee_id": "1015D",
+    "employee_name": "Md. Shahidul Islam",
+    "role": "TSO",
+    "assigned_area": "Md",
+    "status": "Active"
+  },
+  {
+    "employee_id": "145",
+    "employee_name": "Almas Miah",
+    "role": "TSO",
+    "assigned_area": "Almas Miah",
+    "status": "Active"
+  },
+  {
+    "employee_id": "613",
+    "employee_name": "Md. Abul Hashem",
+    "role": "TSO",
+    "assigned_area": "Md. Abul Hashem",
+    "status": "Active"
+  },
+  {
+    "employee_id": "417",
+    "employee_name": "Md. Munsur Rahman",
+    "role": "TSO",
+    "assigned_area": "Prasenzit Malakar",
+    "status": "Active"
+  },
+  {
+    "employee_id": "148",
+    "employee_name": "Md. Shahinur Rahaman",
+    "role": "TSO",
+    "assigned_area": "Md. Shahinur Rahaman",
+    "status": "Active"
+  },
+  {
+    "employee_id": "771",
+    "employee_name": "Al Amin",
+    "role": "TSO",
+    "assigned_area": "Al Amin",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1072",
+    "employee_name": "MD Refatul Islam",
+    "role": "TSO",
+    "assigned_area": "MD Refatul Islam",
+    "status": "Active"
+  },
+  {
+    "employee_id": "382",
+    "employee_name": "Md. Zahidul Islam",
+    "role": "TSO",
+    "assigned_area": "Md. Zahidul Islam",
+    "status": "Active"
+  },
+  {
+    "employee_id": "945",
+    "employee_name": "Md. Raisul Islam",
+    "role": "TSO",
+    "assigned_area": "Md. Raisul Islam",
+    "status": "Active"
+  },
+  {
+    "employee_id": "497",
+    "employee_name": "Md. Nazmul Molla",
+    "role": "TSO",
+    "assigned_area": "Md. Nazmul Molla",
+    "status": "Active"
+  },
+  {
+    "employee_id": "752",
+    "employee_name": "Md. Rajaul Karim",
+    "role": "TSO",
+    "assigned_area": "Md. Rajaul Karim",
+    "status": "Active"
+  },
+  {
+    "employee_id": "892",
+    "employee_name": "Md. Abu Naim Mia",
+    "role": "TSO",
+    "assigned_area": "Md. Abu Naim Mia",
+    "status": "Active"
+  },
+  {
+    "employee_id": "918",
+    "employee_name": "Sumon Mia",
+    "role": "TSO",
+    "assigned_area": "Md. Najmul Hossain",
+    "status": "Inactive"
+  },
+  {
+    "employee_id": "511",
+    "employee_name": "Dulon Mia",
+    "role": "TSO",
+    "assigned_area": "Dulon Mia",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1025",
+    "employee_name": "MD Lokman Hakim",
+    "role": "TSO",
+    "assigned_area": "Md. Lokman Hakim",
+    "status": "Active"
+  },
+  {
+    "employee_id": "427",
+    "employee_name": "Md. Apu Sheikh",
+    "role": "TSO",
+    "assigned_area": "Md. Zahidul Islam Zahid",
+    "status": "Inactive"
+  },
+  {
+    "employee_id": "873",
+    "employee_name": "Al Amin",
+    "role": "TSO",
+    "assigned_area": "Al Amin (Mustafiz)",
+    "status": "Active"
+  },
+  {
+    "employee_id": "723",
+    "employee_name": "Md. Hayder Mia",
+    "role": "TSO",
+    "assigned_area": "Md. Hayder Mia",
+    "status": "Active"
+  },
+  {
+    "employee_id": "852",
+    "employee_name": "Pradip Das",
+    "role": "TSO",
+    "assigned_area": "Pradip Das",
+    "status": "Active"
+  },
+  {
+    "employee_id": "407",
+    "employee_name": "Md. Masud Helali",
+    "role": "TSO",
+    "assigned_area": "Md. Masud Helali",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1074",
+    "employee_name": "Mr Takrim",
+    "role": "TSO",
+    "assigned_area": "Md Takrim",
+    "status": "Active"
+  },
+  {
+    "employee_id": "860",
+    "employee_name": "Md. Fahim Shahagi",
+    "role": "TSO",
+    "assigned_area": "Vacant 01",
+    "status": "Inactive"
+  },
+  {
+    "employee_id": "956",
+    "employee_name": "Salim Uddin",
+    "role": "TSO",
+    "assigned_area": "Salim Uddin",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1107",
+    "employee_name": "Sotan Mia",
+    "role": "TSO",
+    "assigned_area": "Sotan Mia",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1100",
+    "employee_name": "Md Maklesur Rahman",
+    "role": "TSO",
+    "assigned_area": "Razaul Korim",
+    "status": "Inactive"
+  },
+  {
+    "employee_id": "324",
+    "employee_name": "Md. Shariful Islam",
+    "role": "TSO",
+    "assigned_area": "Md. Shariful Islam",
+    "status": "Active"
+  },
+  {
+    "employee_id": "778",
+    "employee_name": "Shoaib Sarkar",
+    "role": "TSO",
+    "assigned_area": "Shoaib Sarkar",
+    "status": "Active"
+  },
+  {
+    "employee_id": "629",
+    "employee_name": "Md:Mazedul",
+    "role": "TSO",
+    "assigned_area": "Md:Mazedul",
+    "status": "Active"
+  },
+  {
+    "employee_id": "905",
+    "employee_name": "Md:Ansarul",
+    "role": "TSO",
+    "assigned_area": "Md:Ansarul",
+    "status": "Active"
+  },
+  {
+    "employee_id": "775",
+    "employee_name": "Md:Tanjimul",
+    "role": "TSO",
+    "assigned_area": "Md:Tanjimul",
+    "status": "Active"
+  },
+  {
+    "employee_id": "997",
+    "employee_name": "Md: Maniruzzaman",
+    "role": "TSO",
+    "assigned_area": "Md: Maniruzzaman",
+    "status": "Active"
+  },
+  {
+    "employee_id": "996",
+    "employee_name": "Md. Tuhin Ali",
+    "role": "TSO",
+    "assigned_area": "Md. Tuhin Ali",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1035",
+    "employee_name": "MD. Forhad Molla",
+    "role": "TSO",
+    "assigned_area": "Md. Forhad Molla",
+    "status": "Active"
+  },
+  {
+    "employee_id": "760",
+    "employee_name": "Thofazzal Hosen",
+    "role": "TSO",
+    "assigned_area": "Thofazzal Hosen",
+    "status": "Active"
+  },
+  {
+    "employee_id": "968",
+    "employee_name": "Md. Rahmat Ali",
+    "role": "TSO",
+    "assigned_area": "Md. Rabi",
+    "status": "Active"
+  },
+  {
+    "employee_id": "864",
+    "employee_name": "Md. Rahid",
+    "role": "TSO",
+    "assigned_area": "Md. Rahid",
+    "status": "Active"
+  },
+  {
+    "employee_id": "975",
+    "employee_name": "Md. Mehide Hasan Limon",
+    "role": "TSO",
+    "assigned_area": "Md. Mehide Hasan Limon",
+    "status": "Active"
+  },
+  {
+    "employee_id": "743",
+    "employee_name": "Md.Rafiqul Islam",
+    "role": "TSO",
+    "assigned_area": "Md.Rafiqul Islam",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1136",
+    "employee_name": "Md. Raju Hossain",
+    "role": "TSO",
+    "assigned_area": "Md. Raju Hossain",
+    "status": "Active"
+  },
+  {
+    "employee_id": "543",
+    "employee_name": "Md. Nahid Mia",
+    "role": "TSO",
+    "assigned_area": "Md. Nahid Mia",
+    "status": "Active"
+  },
+  {
+    "employee_id": "931",
+    "employee_name": "Md. Shafiul Alom",
+    "role": "TSO",
+    "assigned_area": "Md. Shafiul Alom",
+    "status": "Active"
+  },
+  {
+    "employee_id": "526",
+    "employee_name": "Md.Labu Mia",
+    "role": "TSO",
+    "assigned_area": "Md.Labu Mia",
+    "status": "Active"
+  },
+  {
+    "employee_id": "926",
+    "employee_name": "Md.Mehedi Hasan",
+    "role": "TSO",
+    "assigned_area": "Md.Mehedi Hasan",
+    "status": "Active"
+  },
+  {
+    "employee_id": "995",
+    "employee_name": "Md Mahbubur Rahman",
+    "role": "TSO",
+    "assigned_area": "Md. Sumon Kadir",
+    "status": "Inactive"
+  },
+  {
+    "employee_id": "84",
+    "employee_name": "Md. Maminur Rahman",
+    "role": "TSO",
+    "assigned_area": "Md. Maminur Rahman",
+    "status": "Active"
+  },
+  {
+    "employee_id": "732",
+    "employee_name": "Ashikur Rahman",
+    "role": "TSO",
+    "assigned_area": "Ashikur Rahman",
+    "status": "Active"
+  },
+  {
+    "employee_id": "967",
+    "employee_name": "Md. Nahid Hasan",
+    "role": "TSO",
+    "assigned_area": "Md. Nahid Hasan",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1101",
+    "employee_name": "Jahar Ali",
+    "role": "TSO",
+    "assigned_area": "Md. Jahar Ali",
+    "status": "Active"
+  },
+  {
+    "employee_id": "717",
+    "employee_name": "Susil Roy",
+    "role": "TSO",
+    "assigned_area": "Susil Roy",
+    "status": "Active"
+  },
+  {
+    "employee_id": "854",
+    "employee_name": "Zobair Alam",
+    "role": "TSO",
+    "assigned_area": "Zobair Alam",
+    "status": "Active"
+  },
+  {
+    "employee_id": "425",
+    "employee_name": "Arshad Mahmud",
+    "role": "TSO",
+    "assigned_area": "Arshad Mahmud",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1007d",
+    "employee_name": "Masud Rana",
+    "role": "TSO",
+    "assigned_area": "Masud Rana",
+    "status": "Inactive"
+  },
+  {
+    "employee_id": "916",
+    "employee_name": "Raju Mia",
+    "role": "TSO",
+    "assigned_area": "Raju Mia",
+    "status": "Active"
+  },
+  {
+    "employee_id": "927",
+    "employee_name": "Md.Abu Raihan",
+    "role": "TSO",
+    "assigned_area": "Md.Abu Raihan",
+    "status": "Active"
+  },
+  {
+    "employee_id": "925",
+    "employee_name": "Merajul islam",
+    "role": "TSO",
+    "assigned_area": "Merajul islam",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1054",
+    "employee_name": "Md Sohel Rana",
+    "role": "TSO",
+    "assigned_area": "Md Sohel Rana",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1084",
+    "employee_name": "Md Momin Hossain",
+    "role": "TSO",
+    "assigned_area": "Md Momin Hossain",
+    "status": "Active"
+  },
+  {
+    "employee_id": "76",
+    "employee_name": "Md.Golam mostofa",
+    "role": "TSO",
+    "assigned_area": "Md.Golam mostofa",
+    "status": "Active"
+  },
+  {
+    "employee_id": "550",
+    "employee_name": "Abdus Sobhan",
+    "role": "TSO",
+    "assigned_area": "Abdus Sobhan",
+    "status": "Active"
+  },
+  {
+    "employee_id": "700",
+    "employee_name": "Md. Emon Rana",
+    "role": "TSO",
+    "assigned_area": "Md. Emon Rana",
+    "status": "Active"
+  },
+  {
+    "employee_id": "966",
+    "employee_name": "Md. Sakibul Hassan",
+    "role": "TSO",
+    "assigned_area": "Md. Sakibul Hassan",
+    "status": "Active"
+  },
+  {
+    "employee_id": "177",
+    "employee_name": "Md. Kayes Ahmed",
+    "role": "TSO",
+    "assigned_area": "Md. Kayes Ahmed",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1006",
+    "employee_name": "Md Polash Mahmud",
+    "role": "TSO",
+    "assigned_area": "Al-Amin",
+    "status": "Active"
+  },
+  {
+    "employee_id": "718",
+    "employee_name": "Md. Rakibul Islam",
+    "role": "TSO",
+    "assigned_area": "Md. Rakibul Islam",
+    "status": "Active"
+  },
+  {
+    "employee_id": "973",
+    "employee_name": "Md.Topu Raihan",
+    "role": "TSO",
+    "assigned_area": "Md.Topu Raihan",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1026",
+    "employee_name": "MD. Shahriar Kobir Shoikot",
+    "role": "TSO",
+    "assigned_area": "MD. Shahriar Kobir Shoikot",
+    "status": "Active"
+  },
+  {
+    "employee_id": "393",
+    "employee_name": "Md.Kamruzzaman",
+    "role": "TSO",
+    "assigned_area": "Md.Kamruzzaman",
+    "status": "Active"
+  },
+  {
+    "employee_id": "331",
+    "employee_name": "Md.Ariful Islam",
+    "role": "TSO",
+    "assigned_area": "Md.Ariful Islam",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1090",
+    "employee_name": "Sujon Kumar Roy",
+    "role": "TSO",
+    "assigned_area": "Sree Dip Kumer Biswas",
+    "status": "Active"
+  },
+  {
+    "employee_id": "249",
+    "employee_name": "Aram Hossain",
+    "role": "TSO",
+    "assigned_area": "Aram Hossain",
+    "status": "Active"
+  },
+  {
+    "employee_id": "950",
+    "employee_name": "Sadiqul Islam",
+    "role": "TSO",
+    "assigned_area": "Sadiqul Islam",
+    "status": "Active"
+  },
+  {
+    "employee_id": "827",
+    "employee_name": "Md. Nowshad Hossiin",
+    "role": "TSO",
+    "assigned_area": "Md. Nowshad Hossiin",
+    "status": "Active"
+  },
+  {
+    "employee_id": "932",
+    "employee_name": "MD.Azim Hossin",
+    "role": "TSO",
+    "assigned_area": "MD.Azim Hossin",
+    "status": "Active"
+  },
+  {
+    "employee_id": "779",
+    "employee_name": "MD.Abdul Latif",
+    "role": "TSO",
+    "assigned_area": "MD.Abdul Latif",
+    "status": "Active"
+  },
+  {
+    "employee_id": "154",
+    "employee_name": "MD.Shahidu Zaman",
+    "role": "TSO",
+    "assigned_area": "MD.Shahidu Zaman",
+    "status": "Active"
+  },
+  {
+    "employee_id": "582",
+    "employee_name": "MD.Shaharuk Khan",
+    "role": "TSO",
+    "assigned_area": "MD.Shaharuk Khan",
+    "status": "Active"
+  },
+  {
+    "employee_id": "561",
+    "employee_name": "Md. Masud Rana",
+    "role": "TSO",
+    "assigned_area": "Md. Masud Rana",
+    "status": "Active"
+  },
+  {
+    "employee_id": "482",
+    "employee_name": "Md:Shahimam Hossain",
+    "role": "TSO",
+    "assigned_area": "Md:Shahimam Hossain",
+    "status": "Active"
+  },
+  {
+    "employee_id": "445",
+    "employee_name": "Md. Tanvir Reza",
+    "role": "TSO",
+    "assigned_area": "Md. Tanvir Reza",
+    "status": "Active"
+  },
+  {
+    "employee_id": "919",
+    "employee_name": "Nasim Uddin",
+    "role": "TSO",
+    "assigned_area": "Nasim Uddin",
+    "status": "Active"
+  },
+  {
+    "employee_id": "974",
+    "employee_name": "Mithun Kumar Das",
+    "role": "TSO",
+    "assigned_area": "Mithun Kumar Das",
+    "status": "Active"
+  },
+  {
+    "employee_id": "879",
+    "employee_name": "Saiful Islam",
+    "role": "TSO",
+    "assigned_area": "Md. Saiful Islam Pannan",
+    "status": "Active"
+  },
+  {
+    "employee_id": "340",
+    "employee_name": "Md.Ashiqur Rahman",
+    "role": "TSO",
+    "assigned_area": "Md.Ashiqur Rahman",
+    "status": "Active"
+  },
+  {
+    "employee_id": "193",
+    "employee_name": "Abdur Razzak",
+    "role": "TSO",
+    "assigned_area": "Abdur Razzak",
+    "status": "Active"
+  },
+  {
+    "employee_id": "981",
+    "employee_name": "Mr. Krisno Kumar Haldar",
+    "role": "TSO",
+    "assigned_area": "Mr. Krisno Kumar Haldar",
+    "status": "Active"
+  },
+  {
+    "employee_id": "980D",
+    "employee_name": "Mr. Krisno Kumar Haldar",
+    "role": "TSO",
+    "assigned_area": "Dump",
+    "status": "Inactive"
+  },
+  {
+    "employee_id": "986",
+    "employee_name": "Mr. Abdul Motin",
+    "role": "TSO",
+    "assigned_area": "Mr. Abdul Motin",
+    "status": "Active"
+  },
+  {
+    "employee_id": "472",
+    "employee_name": "Biplob Hosen",
+    "role": "TSO",
+    "assigned_area": "Vecant",
+    "status": "Inactive"
+  },
+  {
+    "employee_id": "990",
+    "employee_name": "Syed Hasibul Hasan",
+    "role": "TSO",
+    "assigned_area": "Dump",
+    "status": "Inactive"
+  },
+  {
+    "employee_id": "708",
+    "employee_name": "Kazal",
+    "role": "TSO",
+    "assigned_area": "Dump",
+    "status": "Inactive"
+  },
+  {
+    "employee_id": "549",
+    "employee_name": "Mr. Roton Chandra",
+    "role": "TSO",
+    "assigned_area": "Mr. Roton Chandra",
+    "status": "Active"
+  },
+  {
+    "employee_id": "192",
+    "employee_name": "Mr. Nashir Sheikh",
+    "role": "TSO",
+    "assigned_area": "Mr. Nashir Sheikh",
+    "status": "Active"
+  },
+  {
+    "employee_id": "741",
+    "employee_name": "Mr. Jahangir Alam",
+    "role": "TSO",
+    "assigned_area": "Mr. Jahangir Alam",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1048",
+    "employee_name": "Sajib Hossen",
+    "role": "TSO",
+    "assigned_area": "Sojib Hossen",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1068",
+    "employee_name": "Asraful Islam",
+    "role": "TSO",
+    "assigned_area": "Asraful Islam",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1053",
+    "employee_name": "Ashadullah",
+    "role": "TSO",
+    "assigned_area": "Ashadullah",
+    "status": "Active"
+  },
+  {
+    "employee_id": "930",
+    "employee_name": "Masud Ali",
+    "role": "TSO",
+    "assigned_area": "Masud Ali",
+    "status": "Active"
+  },
+  {
+    "employee_id": "294",
+    "employee_name": "Ruhul Amin",
+    "role": "TSO",
+    "assigned_area": "Ruhul Amin",
+    "status": "Active"
+  },
+  {
+    "employee_id": "403",
+    "employee_name": "Mohaiminul Islam Akash",
+    "role": "TSO",
+    "assigned_area": "Mohaiminul Islam Akash",
+    "status": "Active"
+  },
+  {
+    "employee_id": "1047",
+    "employee_name": "Riyazul Hasan",
+    "role": "TSO",
+    "assigned_area": "Riyazul Hasan",
+    "status": "Active"
+  },
+  {
+    "employee_id": "062",
+    "employee_name": "Md. Mamun",
+    "role": "TSO",
+    "assigned_area": "Md. Mamun",
+    "status": "Active"
+  },
+  {
+    "employee_id": "955",
+    "employee_name": "Md.Feroz Hossain",
+    "role": "TSO",
+    "assigned_area": "Md.Feroz Hossain",
+    "status": "Active"
+  },
+  {
+    "employee_id": "204",
+    "employee_name": "Md. Maruf Billah",
+    "role": "TSO",
+    "assigned_area": "Md. Maruf Billah",
+    "status": "Active"
+  },
+  {
+    "employee_id": "168",
+    "employee_name": "Md. Naeem Hosen",
+    "role": "TSO",
+    "assigned_area": "Md. Naeem Hosen",
+    "status": "Active"
+  },
+  {
+    "employee_id": "924",
+    "employee_name": "Samsul Islam",
+    "role": "TSO",
+    "assigned_area": "Vecant",
+    "status": "Inactive"
+  },
+  {
+    "employee_id": "987",
+    "employee_name": "Md.Hasib Hossain",
+    "role": "TSO",
+    "assigned_area": "Vecant",
+    "status": "Inactive"
+  },
+  {
+    "employee_id": "1016",
+    "employee_name": "Md. Salman Mia",
+    "role": "TSO",
+    "assigned_area": "Rakibul Islam",
+    "status": "Active"
+  },
+  {
+    "employee_id": "904",
+    "employee_name": "Al shahriar Rokon",
+    "role": "TSO",
+    "assigned_area": "Al shahriar Rokon",
+    "status": "Active"
+  },
+  {
+    "employee_id": "908",
+    "employee_name": "Nur Hossain",
+    "role": "TSO",
+    "assigned_area": "Md. Israil Hossan Nadim",
+    "status": "Active"
+  },
+  {
+    "employee_id": "893",
+    "employee_name": "Sagor Matbor",
+    "role": "TSO",
+    "assigned_area": "Sagor Matbor",
+    "status": "Active"
+  },
+  {
+    "employee_id": "894",
+    "employee_name": "Md Rasel",
+    "role": "TSO",
+    "assigned_area": "Md. Ashiqur Rahaman",
+    "status": "Inactive"
+  },
+  {
+    "employee_id": "938",
+    "employee_name": "Ahraf HOSSAIN",
+    "role": "TSO",
+    "assigned_area": "Dump",
+    "status": "Inactive"
+  },
+  {
+    "employee_id": "1014",
+    "employee_name": "Md. Shawon Mia",
+    "role": "TSO",
+    "assigned_area": "Dump",
+    "status": "Inactive"
+  },
+  {
+    "employee_id": "998",
+    "employee_name": "Md Ruhul Amin Obaydul",
+    "role": "TSO",
+    "assigned_area": "Sagor Matbor",
+    "status": "Inactive"
+  },
+  {
+    "employee_id": "",
+    "employee_name": "Super Admin",
+    "role": "",
+    "assigned_area": "Bangladesh",
+    "status": "Active"
+  }
+]

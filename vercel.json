@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "rewrites": [
+    {
+      "source": "/api/(.*)",
+      "dest": "/proxy.js"
+    },
+    {
+      "source": "/(.*)",
+      "dest": "/public/$1"
+    }
+  ]
+}
