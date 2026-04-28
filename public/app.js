@@ -26,8 +26,8 @@ function normalizeRole(role) {
 
 async function boot() {
   const config = await fetch('/api/config').then(r => r.json());
-  $('loginIdentifier').value = config.defaults.identifier || 'super@kitty.com';
-  $('loginPassword').value = 'password123';
+  $('loginIdentifier').value = '';
+  $('loginPassword').value = '';
   $('fromDate').value = '2026-04-01';
   $('toDate').value = '2026-04-15';
   bindEvents();
