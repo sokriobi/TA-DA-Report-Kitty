@@ -320,11 +320,15 @@ function renderBills() {
   });
 
   tbody.querySelectorAll('[data-da]').forEach((el) => {
-    el.addEventListener('click', () => openDABill(el.getAttribute('data-da')));
+    el.addEventListener('click', (e) => {
+      openDABill(e.target.getAttribute('data-da'));
+    });
   });
 
   tbody.querySelectorAll('[data-total]').forEach((el) => {
-    el.addEventListener('click', () => openTotalBill(el.getAttribute('data-total')));
+    el.addEventListener('click', (e) => {
+      openTotalBill(e.target.getAttribute('data-total'));
+    });
   });
 
   updateSummary(rows);
