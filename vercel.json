@@ -3,15 +3,11 @@
   "rewrites": [
     {
       "source": "/",
-      "destination": "/public/login.html"
+      "destination": "/login.html"
     },
     {
       "source": "/api/(.*)",
       "destination": "/api/index.js"
-    },
-    {
-      "source": "/(.*)",
-      "destination": "/public/$1"
     }
   ]
 }
