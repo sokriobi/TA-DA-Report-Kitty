@@ -254,8 +254,11 @@ async function handleApi(req, res, pathname, query) {
   if (pathname === '/api/day-report' && req.method === 'GET') {
     const fromDate = String(query.from_date || '');
     const toDate = String(query.to_date || '');
+    console.log(`[DATA] Request received. Range: ${fromDate} to ${toDate}`);
+    
     try {
       if (DAY_REPORT_API_URL) {
+        console.log(`[DATA] Using Live API: ${new URL(DAY_REPORT_API_URL).hostname}`);
         const target = new URL(DAY_REPORT_API_URL);
 
         if (target.pathname.includes('/daily-attendance')) {
@@ -330,6 +333,8 @@ async function handleApi(req, res, pathname, query) {
 
         const normalized = normalizeReportRows(allRows);
         return sendJson(res, 200, { ok: true, source: 'live', rows: normalized });
+      } else {
+        console.warn('[DATA] DAY_REPORT_API_URL is NOT set in Environment Variables.');
       }
       
       console.log('Using sample report data (fallback)...');
