@@ -15,7 +15,7 @@ loadEnv(path.join(ROOT, '.env'));
 const PORT = Number(process.env.PORT || 5500);
 const LOGIN_API_URL = process.env.LOGIN_API_URL || 'https://kitty.report.sokrio.com/api/v1/login';
 const USER_BULK_API_URL = process.env.USER_BULK_API_URL || 'https://kitty.report.sokrio.com/api/v1/user-bulk-download?&download';
-const DAY_REPORT_API_URL = process.env.DAY_REPORT_API_URL || '';
+const DAY_REPORT_API_URL = process.env.DAY_REPORT_API_URL || 'https://kitty.report.sokrio.com/api/v3/daily-attendance?territory_id=2&roles=9,3,4,6,7&download';
 const DEFAULT_IDENTIFIER = process.env.DEFAULT_IDENTIFIER || 'super@kitty.com';
 const DEFAULT_PASSWORD = process.env.DEFAULT_PASSWORD || 'password123';
 
