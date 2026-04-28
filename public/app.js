@@ -46,7 +46,6 @@ function bindEvents() {
   $('searchText').addEventListener('input', renderBills);
   $('roleFilter').addEventListener('change', () => { updateSuggestions(); renderBills(); });
   $('showAllUsers').addEventListener('change', renderBills);
-  $('logoutBtn').addEventListener('click', handleLogout);
   $('downloadBtn').addEventListener('click', downloadExcel);
   $('closeModal').addEventListener('click', closeModal);
   $('modal').addEventListener('click', (e) => {
@@ -56,11 +55,6 @@ function bindEvents() {
   if (toggleBtn) {
     toggleBtn.addEventListener('click', togglePasswordVisibility);
   }
-}
-
-function handleLogout() {
-  localStorage.removeItem('kitty_token');
-  location.reload();
 }
 
 function togglePasswordVisibility() {
@@ -78,15 +72,20 @@ function togglePasswordVisibility() {
 async function showDashboard() {
   $('loginScreen').classList.add('hidden');
   $('dashboardScreen').classList.remove('hidden');
-  localStorage.setItem('kitty_token', state.token);
-
-  const headers = state.token ? { Authorization: `Bearer ${state.token}` } : {};
-  const usersRes = await fetch('/api/users', { headers }).then(r => r.json());
-  state.users = (usersRes.rows || []).map((u) => ({
-    employee_id: String(u.employee_id || '').trim(),
-    employee_name: String(u.employee_name || '').trim(),
-    role: normalizeRole(u.role)
-  })).filter(u => u.employee_id && u.employee_name && u.role);
+  try {
+    const headers = state.token ? { Authorization: `Bearer ${state.token}` } : {};
+    const usersRes = await fetch('/api/users', { headers }).then(r => r.json()).catch(() => ({ ok: false }));
+    
+    if (usersRes.ok) {
+      state.users = (usersRes.rows || []).map((u) => ({
+        employee_id: String(u.employee_id || '').trim(),
+        employee_name: String(u.employee_name || '').trim(),
+        role: normalizeRole(u.role)
+      })).filter(u => u.employee_id && u.employee_name && u.role);
+    }
+  } catch (err) {
+    console.error('Failed to load users:', err);
+  }
 
   updateSuggestions();
 }
@@ -146,29 +145,35 @@ async function loadData() {
     return;
   }
 
-  const headers = state.token ? { Authorization: `Bearer ${state.token}` } : {};
-  const reportRes = await fetch(`/api/day-report?from_date=${encodeURIComponent(fromDate)}&to_date=${encodeURIComponent(toDate)}`, { headers }).then(r => r.json());
+  try {
+    const headers = state.token ? { Authorization: `Bearer ${state.token}` } : {};
+    const reportRes = await fetch(`/api/day-report?from_date=${encodeURIComponent(fromDate)}&to_date=${encodeURIComponent(toDate)}`, { headers }).then(r => r.json()).catch(e => ({ ok: false, message: e.message }));
 
-  if (!reportRes.ok) {
-    alert(`Live Fetch Failed: ${reportRes.message || 'Unknown error'}`);
-    setStatus('Fetch Failed');
-    return;
+    if (!reportRes.ok) {
+      alert(`Fetch Failed: ${reportRes.message || 'Unknown error'}`);
+      setStatus('Fetch Failed');
+      return;
+    }
+
+    state.reportRows = (reportRes.rows || []).map((r) => ({
+      date: String(r.date || '').slice(0, 10),
+      employee_code: String(r.employee_code || '').trim(),
+      employee_name: String(r.employee_name || '').trim(),
+      day_in_time: String(r.day_in_time || ''),
+      day_out_time: String(r.day_out_time || ''),
+      working_hours: String(r.working_hours || '')
+    })).filter(r => r.employee_code && r.date);
+
+    updateSourceBadge(reportRes.source);
+    buildBills();
+    renderBills();
+    setStatus(`Users: ${state.users.length} | Rows: ${state.reportRows.length}`);
+    $('downloadBtn').style.display = 'block';
+  } catch (err) {
+    alert('An unexpected error occurred while loading data.');
+    setStatus('Error');
+    console.error(err);
   }
-
-  state.reportRows = (reportRes.rows || []).map((r) => ({
-    date: String(r.date || '').slice(0, 10),
-    employee_code: String(r.employee_code || '').trim(),
-    employee_name: String(r.employee_name || '').trim(),
-    day_in_time: String(r.day_in_time || ''),
-    day_out_time: String(r.day_out_time || ''),
-    working_hours: String(r.working_hours || '')
-  })).filter(r => r.employee_code && r.date);
-
-  updateSourceBadge(reportRes.source);
-  buildBills();
-  renderBills();
-  setStatus(`Users: ${state.users.length} | Rows: ${state.reportRows.length}`);
-  $('downloadBtn').style.display = 'block';
 }
 
 function updateSourceBadge(source) {
@@ -267,7 +272,7 @@ function renderBills() {
       <td>${escapeHtml(row.employee_name)}</td>
       <td><span class="role-pill">${escapeHtml(row.role)}</span></td>
       <td>${row.days}</td>
-      <td>${POLICY[row.role].manualTA ? `<input class="input-mini" type="number" placeholder="৳ 0.00" value="${state.manualTA[row.employee_id] || ''}" data-ta="${row.employee_id}" />` : money(row.ta)}</td>
+      <td>${(POLICY[row.role] || {}).manualTA ? `<input class="input-mini" type="number" placeholder="৳ 0.00" value="${state.manualTA[row.employee_id] || ''}" data-ta="${row.employee_id}" />` : money(row.ta)}</td>
       <td>${money(row.da)}</td>
       <td>${money(row.other)}</td>
       <td>${row.role === 'TSM' ? `
@@ -326,14 +331,14 @@ function renderBills() {
   });
 
   tbody.querySelectorAll('[data-da]').forEach((el) => {
-    el.addEventListener('click', (e) => {
-      openDABill(e.target.getAttribute('data-da'));
+    el.addEventListener('click', () => {
+      openDABill(el.getAttribute('data-da'));
     });
   });
 
   tbody.querySelectorAll('[data-total]').forEach((el) => {
-    el.addEventListener('click', (e) => {
-      openTotalBill(e.target.getAttribute('data-total'));
+    el.addEventListener('click', () => {
+      openTotalBill(el.getAttribute('data-total'));
     });
   });
 
