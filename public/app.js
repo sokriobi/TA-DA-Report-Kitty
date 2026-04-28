@@ -46,6 +46,7 @@ function bindEvents() {
   $('searchText').addEventListener('input', renderBills);
   $('roleFilter').addEventListener('change', () => { updateSuggestions(); renderBills(); });
   $('showAllUsers').addEventListener('change', renderBills);
+  $('logoutBtn').addEventListener('click', handleLogout);
   $('downloadBtn').addEventListener('click', downloadExcel);
   $('closeModal').addEventListener('click', closeModal);
   $('modal').addEventListener('click', (e) => {
@@ -55,6 +56,11 @@ function bindEvents() {
   if (toggleBtn) {
     toggleBtn.addEventListener('click', togglePasswordVisibility);
   }
+}
+
+function handleLogout() {
+  localStorage.removeItem('kitty_token');
+  location.reload();
 }
 
 function togglePasswordVisibility() {
