@@ -256,7 +256,7 @@ function renderBills() {
 
   tbody.innerHTML = rows.map((row, index) => `
     <tr>
-      <td class="text-muted small">${index + 1}</td>
+      <td class="text-muted small">#${index + 1}</td>
       <td>${escapeHtml(row.employee_id)}</td>
       <td>${escapeHtml(row.employee_name)}</td>
       <td><span class="role-pill">${escapeHtml(row.role)}</span></td>
